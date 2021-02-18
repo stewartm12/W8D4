@@ -1,8 +1,8 @@
 .content-header {
   position: relative;
-  height: 200px;
+  height: 300px;
   width: 100%;
-  background: url("../images/cats.jpg");
+  background: url("../images/Sauce.png");
   background-size: cover;
   border-bottom: 1px solid #ccc;
 }
